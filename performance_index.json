@@ -1,0 +1,187 @@
+{
+  "signals": {
+    "bearish_reversal": {
+      "fired": 0,
+      "traded": 0,
+      "wins": 0,
+      "losses": 0,
+      "skipped": 0,
+      "pnl_total": 0.0,
+      "pnl_list": [],
+      "last_fired": null,
+      "last_result": null
+    },
+    "bullish_reversal": {
+      "fired": 0,
+      "traded": 0,
+      "wins": 0,
+      "losses": 0,
+      "skipped": 0,
+      "pnl_total": 0.0,
+      "pnl_list": [],
+      "last_fired": null,
+      "last_result": null
+    },
+    "bearish_continuation": {
+      "fired": 0,
+      "traded": 0,
+      "wins": 0,
+      "losses": 0,
+      "skipped": 0,
+      "pnl_total": 0.0,
+      "pnl_list": [],
+      "last_fired": null,
+      "last_result": null
+    },
+    "bullish_continuation": {
+      "fired": 0,
+      "traded": 0,
+      "wins": 0,
+      "losses": 0,
+      "skipped": 0,
+      "pnl_total": 0.0,
+      "pnl_list": [],
+      "last_fired": null,
+      "last_result": null
+    },
+    "bearish_reversal_high": {
+      "fired": 0,
+      "traded": 0,
+      "wins": 0,
+      "losses": 0,
+      "skipped": 0,
+      "pnl_total": 0.0,
+      "pnl_list": [],
+      "last_fired": null,
+      "last_result": null
+    },
+    "bullish_reversal_high": {
+      "fired": 0,
+      "traded": 0,
+      "wins": 0,
+      "losses": 0,
+      "skipped": 0,
+      "pnl_total": 0.0,
+      "pnl_list": [],
+      "last_fired": null,
+      "last_result": null
+    },
+    "bearish_continuation_high": {
+      "fired": 0,
+      "traded": 0,
+      "wins": 0,
+      "losses": 0,
+      "skipped": 0,
+      "pnl_total": 0.0,
+      "pnl_list": [],
+      "last_fired": null,
+      "last_result": null
+    },
+    "bullish_continuation_high": {
+      "fired": 0,
+      "traded": 0,
+      "wins": 0,
+      "losses": 0,
+      "skipped": 0,
+      "pnl_total": 0.0,
+      "pnl_list": [],
+      "last_fired": null,
+      "last_result": null
+    },
+    "unmitigated": {
+      "fired": 0,
+      "traded": 0,
+      "wins": 0,
+      "losses": 0,
+      "skipped": 0,
+      "pnl_total": 0.0,
+      "pnl_list": [],
+      "last_fired": null,
+      "last_result": null
+    },
+    "consolidating": {
+      "fired": 0,
+      "traded": 0,
+      "wins": 0,
+      "losses": 0,
+      "skipped": 0,
+      "pnl_total": 0.0,
+      "pnl_list": [],
+      "last_fired": null,
+      "last_result": null
+    },
+    "inversion": {
+      "fired": 0,
+      "traded": 0,
+      "wins": 0,
+      "losses": 0,
+      "skipped": 0,
+      "pnl_total": 0.0,
+      "pnl_list": [],
+      "last_fired": null,
+      "last_result": null
+    },
+    "reaction": {
+      "fired": 0,
+      "traded": 0,
+      "wins": 0,
+      "losses": 0,
+      "skipped": 0,
+      "pnl_total": 0.0,
+      "pnl_list": [],
+      "last_fired": null,
+      "last_result": null
+    },
+    "support_resistance": {
+      "fired": 0,
+      "traded": 0,
+      "wins": 0,
+      "losses": 0,
+      "skipped": 0,
+      "pnl_total": 0.0,
+      "pnl_list": [],
+      "last_fired": null,
+      "last_result": null
+    }
+  },
+  "rnn": {
+    "long": {
+      "fired": 0,
+      "traded": 0,
+      "wins": 0,
+      "losses": 0,
+      "skippd": 0,
+      "pnl_total": 0.0,
+      "pnl_list": [],
+      "last_fired": null,
+      "last_result": null
+    },
+    "short": {
+      "fired": 0,
+      "traded": 0,
+      "wins": 0,
+      "losses": 0,
+      "skippd": 0,
+      "pnl_total": 0.0,
+      "pnl_list": [],
+      "last_fired": null,
+      "last_result": null
+    },
+    "uncertain": {
+      "fired": 0,
+      "traded": 0,
+      "wins": 0,
+      "losses": 0,
+      "skippd": 0,
+      "pnl_total": 0.0,
+      "pnl_list": [],
+      "last_fired": null,
+      "last_result": null
+    }
+  },
+  "meta": {
+    "created_at": "2026-05-12T13:21:12.110701",
+    "updated_at": "2026-05-12T13:21:12.110701",
+    "total_trades": 0
+  }
+}
