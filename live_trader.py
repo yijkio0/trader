@@ -895,8 +895,8 @@ def run():
                 else:
                     print(f"[RNN] Skipped - pattern already found ({source} -> {signal})")
                 if position is not None and signal!="none" and signal!=position['direction']:
-                    print(f"[FLIP] {signal.upper()} signal while in {position["direction"].upper()} - closing first.")
-                    heartbeat(f"opposite signal flip: {position["direction"]} -> {signal}")
+                    print(f"[FLIP] {signal.upper()} signal while in {position['direction'].upper()} - closing first.")
+                    heartbeat(f"opposite signal flip: {position['direction']} -> {signal}")
                     close_position(current_price,reason=f"opposite_signal:{source}")
             entry_size_mult=rnn_size_mult if source=="rnn" else 1.0 
             entry_tier_label=rnn_tier if source=="rnn" else source 
